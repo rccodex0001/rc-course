@@ -7,14 +7,13 @@ export default function Hero() {
       <section className="text-gray-600 body-font bg-gray-300" data-aos="fade-up">
   <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0 ">
-      <img className="object-cover object-center shadow-xl shadow-slate-500 rounded" alt="hero" src="https://th.bing.com/th/id/OIP.v5yOgrGYbWmPJr58hzpEowAAAA?rs=1&pid=ImgDetMain"/>
+      <img className="object-cover object-center shadow-xl shadow-slate-500 rounded" alt="hero" src="https://wallpapercave.com/wp/wp8661113.jpg"/>
     </div>
     <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
-      <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-blue-800">Enhance Your FullStack Development <br/> Skills 
-with Our Ebook!
+      <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-blue-800">Master Python Programming with Our Ebook!
       </h1>
       <p className="mb-8 leading-relaxed">
-      Discover essential aspects of Full-stack development with our e-book. Dive into both frontend and backend components of the MERN stack, empowering you to craft stunning and responsive websites.
+      Unlock the full potential of Python with our comprehensive e-book. Explore key concepts and advanced techniques, enabling you to develop robust, scalable applications and automate complex tasks with ease.
       </p>
       <div class="flex justify-center flex-wrap">
         <div>

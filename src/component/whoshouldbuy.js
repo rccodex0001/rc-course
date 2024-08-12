@@ -82,16 +82,16 @@ export default function Whoshouldbuy() {
   </div>
   <div class="flex justify-center flex-wrap">
         <div>
-    <a href='https://imjo.in/mZbubS' class="mb-4 md:mb-0">
+    <a href='https://payments.cashfree.com/forms/rcrao' class="mb-4 md:mb-0">
         <button data-aos="zoom-out-up" class="button inline-flex text-white m-2 md:m-0 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg" style={{'backgroundColor':'rgb(211,0,0)'}}>
-            Get &nbsp;<span class="line-through md:inline">₹1599</span>&nbsp;₹199/- Only
+            Get &nbsp;<span class="line-through md:inline">₹1599</span>&nbsp;₹249/- Only
         </button>
     </a>
     </div>
     <div>
-    <a href='https://imjo.in/ye6Dtf'>
+    <a href='https://payments.cashfree.com/forms/frontend'>
         <button data-aos="zoom-out-up" class="button ml-0 md:ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">
-            Frontend Course&nbsp;<span class="line-through md:inline">₹699</span>&nbsp;₹99/- Only
+            Frontend Course&nbsp;<span class="line-through md:inline">₹699</span>&nbsp;₹199/- Only
         </button>
     </a>
     </div>
